@@ -22,5 +22,4 @@ print(subfiles) # print list of file with relative path
 
 ### TODO
 
-* verify special character
-* verify empty space
+not todo right now
