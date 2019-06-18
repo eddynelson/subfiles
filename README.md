@@ -19,3 +19,8 @@ from subfiles import get_subfiles
 subfiles = get_subfiles() # get list of file with relative path
 print(subfiles) # print list of file with relative path
 ```
+
+### TODO
+
+* verify special character
+* verify empty space
