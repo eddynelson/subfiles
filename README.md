@@ -13,7 +13,7 @@ $ ./subfiles/subfiles.py
 
 #### From python
 
-``` pyhon
+``` python
 from subfiles import get_subfiles
 
 subfiles = get_subfiles() # get list of file with relative path
