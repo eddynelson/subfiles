@@ -8,6 +8,7 @@ subfiles is a python script for list all files with relative path from a main di
 
 ```bash
 $ git clone https://github.com/eddynelson/subfiles.git
+$ sudo chmod 744 ./subfiles/subfiles.py
 $ ./subfiles/subfiles.py
 ```
 
